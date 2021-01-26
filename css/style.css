@@ -660,8 +660,7 @@ a.read:hover {
 }
 .spa-agile {
     text-align: center;
-	
-    padding: 4em 0 0 0;
+    padding: 2em 0 0 0;
 }
 .spa-grid {
     border-right: 1px solid #292b2b;
@@ -681,8 +680,8 @@ a.read:hover {
 }
 h3.tittle.fea {
     font-size: 2.3em;
-       color: #2baf2b;
-    margin-bottom: 2em;
+	color: #2baf2b;
+    margin-bottom: 1em;
 }
 .featured,.team-section {
     background: #f5f5f5;
@@ -2367,7 +2366,7 @@ h3.tittle, h2.w3l-inner-h-title, h3.w3l-inner-h-title {
 .w3agile_footer_copy {
     text-align: center;
     background: #00acee;
-    padding: 1em 0;
+    padding: 0.5em 0;
 }
 .w3agile_footer_copy p {
     color: #fff;
@@ -2658,7 +2657,7 @@ a.icon.gp {
       font-size: 2.5em;
 	}
 	h3.tittle.fea {
-      font-size: 2em;
+      font-size: 2.25em;
 	}
 	.special, #news, .w3_content_agilleinfo_inner, .team-section, .plans-section {
 		padding: 4em 0;
@@ -2720,7 +2719,7 @@ a.icon.gp {
 		letter-spacing: 6px;
 	}
 	h3.tittle.fea {
-		font-size: 1.8em;
+		font-size: 2.3em;
 	}
 	.spa-agile h4 {
       font-size: 1.1em;
