@@ -782,6 +782,19 @@ h4.side-t-w3l-agile {
 .w3_agileits_services_grid_1 img{
 	width:100%;
 }
+.w3_agileits_services_grid_agile h2{
+	text-transform: capitalize;
+    font-size: 1.8em;
+    letter-spacing: 3px;
+    color: #ff401b;
+    margin: 1em 0 1em;
+    padding-bottom: .5em;
+    position: relative;
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+}
 .w3_agileits_services_grid_agile h3{
 	    text-transform: capitalize;
     font-size: 1.2em;
